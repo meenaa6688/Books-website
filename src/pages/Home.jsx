@@ -1,6 +1,7 @@
+import React from "react";
 import { useMemo, useState } from "react";
 
-import books from "../data/books";
+import  books  from "../data/books";
 
 import Hero from "../components/Hero";
 import BookCard from "../components/BookCard";
